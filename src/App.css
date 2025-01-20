@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #fff;
+}
+
+.app {
+  text-align: center;
+}
+
+main {
+  margin-top: 100px; /* 헤더 높이만큼 여백 */
+  padding: 20px;
+}
+
